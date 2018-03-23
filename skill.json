@@ -2,25 +2,21 @@
   "skillManifest": {
     "publishingInformation": {
       "locales": {
-        "de-DE": {
-          "name": "Assistent für Minecraft in Deutsch"
-        },
         "en-US": {
-          "summary": "Spend some time coming up with an interesting, succinct description.",
+          "summary": "Ask Alexa for the safe cooking temperature for different foods.",
           "examplePhrases": [
-            "Alexa open Minecraft Helper",
-            "Alexa ask Minecraft Helper what's the recipe for a chest",
-            "Alexa ask Minecraft Helper how do I get a map"
+            "Alexa open Cooking Temperature",
+            "Alexa ask Cooking Temperature for beef",
+            "Alexa ask Cooking Temperature about chicken"
           ],
           "keywords": [
-            "Minecraft",
-            "game"
+            "Cooking"
           ],
-          "name": "Minecraft Helper",
-          "description": "Sample Full Description"
+          "name": "Cooking Temperature",
+          "description": "Using information from the USDA website, find out the safe cooking temperature for different foods. Source: https://www.fsis.usda.gov/wps/portal/fsis/topics/food-safety-education/get-answers/food-safety-fact-sheets/safe-food-handling/safe-minimum-internal-temperature-chart/ct_index"
         },
         "en-GB": {
-          "name": "British Minecraft Helper"
+          "name": "British Cooking Temperature"
         }
       },
       "isAvailableWorldwide": true,
